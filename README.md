@@ -1,2 +1,2 @@
 # Image-Processing
-Image processiong subject of 5th semester
+Image processing subject of 5th semester
